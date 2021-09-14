@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farid Khatibul Umam</h1>
+<h1 align="center">Hi 👋, I'm Farid K.</h1>
 <h3 align="center">I'm currently focusing on Web Development, especially Front-end Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farid-kh&label=Profile%20views&color=0e75b6&style=flat" alt="farid-kh" /> </p>
