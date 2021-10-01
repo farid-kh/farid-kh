@@ -1,4 +1,4 @@
-![farid-kh's card name](https://cardivo.vercel.app/api?name=Farid%20Khatibul%20Umam&description=Front%20End%20Developer%20wannabe&image=https://avatars.githubusercontent.com/u/53039229?v=4&backgroundColor=%1f1135&github=farid-kh&linkedin=Farid%20Khatibul%20Umam&pattern=topography&colorPattern=%9c92ac&fontColor=%F4EFFC&iconColor=%f9f5ff&opacity=0.3)
+![farid-kh's card name](https://cardivo.vercel.app/api?name=Farid%20Khatibul%20Umam&description=Front%20End%20Developer%20wannabe&image=https://avatars.githubusercontent.com/u/53039229?v=4&backgroundColor=%1f1135&github=farid-kh&linkedin=Farid%20Khatibul%20Umam&pattern=topography&colorPattern=%9c92ac&fontColor=%f4effc&iconColor=%f9f5ff&opacity=0.3)
 
 ![farid-kh's card name](https://cardivo.vercel.app/api?name=Farid%20Khatibul%20Umam&description=Front%20End%20Web%20Developer%20wannabe&image=https://avatars.githubusercontent.com/u/53039229?v=4&backgroundColor=%23ecf0f1&github=farid-kh&linkedin=Farid%20Khatibul%20Umam&pattern=topography&colorPattern=%23eaeaea)
 
@@ -18,6 +18,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farid-kh&show_icons=true&locale=en&layout=compact" alt="farid-kh" /></p>
+<br/>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farid-kh&show_icons=true&locale=en" alt="farid-kh" /></p>
 
