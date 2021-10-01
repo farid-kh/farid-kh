@@ -1,3 +1,5 @@
+![farid-kh's card name](https://cardivo.vercel.app/api?name=Farid%20Khatibul%20Umam&description=Front%20End%20Developer%20wannabe&image=https://avatars.githubusercontent.com/u/53039229?v=4&backgroundColor=%1f1135&github=farid-kh&linkedin=Farid%20Khatibul%20Umam&pattern=topography&colorPattern=%9c92ac&fontColor=%F4EFFC&iconColor=%f9f5ff&opacity=0.3)
+
 <h1 align="center">Hi 👋, I'm Farid K.</h1>
 <h3 align="center">I'm currently focusing on Web Development, especially Front-end Development</h3>
 
