@@ -1,11 +1,11 @@
 ![farid-kh's card name](https://cardivo.vercel.app/api?name=Farid%20Khatibul%20Umam&description=Front%20End%20Web%20Developer%20wannabe&image=https://avatars.githubusercontent.com/u/53039229?v=4&backgroundColor=%23ecf0f1&github=farid-kh&linkedin=Farid%20Khatibul%20Umam&pattern=topography&colorPattern=%23eaeaea)
 
 -   Hi 👋, I'm Farid
--   🔎 For now focusing in Front End and Web Design (Back End soon😅)
+-   🔎 For now focusing in Front End and Web Design (Back End soon 😅)
 -   👨‍🎓 Fresh graduate of Information System
--   📚 Currently learning CSS Framework like Bootstrap 5 and tailwind
+-   📚 Currently learning CSS Framework like Bootstrap 5 and tailwindcss
 -   💰 I wanna work as a web developer so i can feed my (future) cat 🐱
--   📫 Reach me at my <a href="https://www.linkedin.com/in/faridkhatibul/">linkedin</a>
+-   📫 Reach me at my <a href="https://www.linkedin.com/in/faridkhatibul/" target="_blank">linkedin</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farid-kh&label=Profile%20views&color=0e75b6&style=flat" alt="farid-kh" /> </p>
 
